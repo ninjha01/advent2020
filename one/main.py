@@ -1,5 +1,5 @@
-_input = open("./input.txt").readlines()
-_input = [int(x) for x in _input]
+xinput = open("./input.txt").readlines()
+_input = [int(x) for x in xinput]
 
 
 def part_one(_input):
